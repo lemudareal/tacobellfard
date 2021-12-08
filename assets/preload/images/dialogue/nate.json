@@ -1,0 +1,50 @@
+{
+	"position": [
+		140,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "NATE_PORTRAITS",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Nate_PORTRAIT",
+			"idle_name": "Nate_PORTRAIT0006"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Nate_PORTRAIT0006",
+			"idle_name": "Nate_PORTRAIT0006"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "idle",
+			"anim": "",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

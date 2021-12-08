@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nate_Idle"
+		},
+		{
+			"offsets": [
+				150,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Nate_Up_Miss"
+		},
+		{
+			"offsets": [
+				250,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Nate_Down_Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				254,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nate_Down_Playable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nate_Right_Playable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nate_Left_Playable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nate_Up_Playable",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-70
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Nate_Right_Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-50
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Nate_Left_Miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Nat_Death"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				55
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Nate_Death_Retry",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				21
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Nate_Death_Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playableNate",
+	"position": [
+		200,
+		100
+	],
+	"healthicon": "nate",
+	"flip_x": true,
+	"healthbar_colors": [
+		55,
+		255,
+		206
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4.1,
+	"scale": 1
+}

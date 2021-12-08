@@ -1,0 +1,48 @@
+{
+	"storyName": "Shit Stain",
+	"hideFreeplay": false,
+	"weekBackground": "tacobell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"nate",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Taco",
+			"nate",
+			[
+				0,
+				254,
+				191
+			]
+		],
+		[
+			"Bafroom",
+			"nate",
+			[
+				0,
+				254,
+				191
+			]
+		],
+		[
+			"Baja-Blast",
+			"nate",
+			[
+				0,
+				254,
+				191
+			]
+		]
+	],
+	"weekName": "weektaco"
+}
